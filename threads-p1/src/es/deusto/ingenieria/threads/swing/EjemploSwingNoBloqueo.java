@@ -48,7 +48,7 @@ public class EjemploSwingNoBloqueo extends JFrame {
         
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setSize(320, 240);
-        this.setTitle("NO bloqueo de Swing");
+        this.setTitle("Ejemplo NO bloqueo de Swing");
         this.setVisible(true);
     }
 

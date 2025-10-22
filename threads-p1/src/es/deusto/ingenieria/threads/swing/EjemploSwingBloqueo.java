@@ -31,7 +31,7 @@ public class EjemploSwingBloqueo extends JFrame {
         
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setSize(320, 240);
-        this.setTitle("Bloqueo de Swing");
+        this.setTitle("Ejemplo Bloqueo de Swing");
         this.setVisible(true);
     }
     
