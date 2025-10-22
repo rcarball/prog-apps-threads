@@ -1,0 +1,19 @@
+Uso de BorderLayout, FlowLayout y GridLayout en Swing
+
+En Java Swing, BorderLayout, FlowLayout y GridLayout son algunos de los layouts 
+más comunes y cada uno cumple una función específica. BorderLayout organiza los 
+componentes en cinco áreas: norte, sur, este, oeste y centro, siendo útil para 
+interfaces que requieren una disposición clara de secciones diferenciadas. 
+FlowLayout, en cambio, coloca los componentes de forma secuencial en una fila de 
+izquierda a derecha y crea nuevas filas automáticamente si el espacio es 
+insuficiente, ideal para estructuras sencillas y flexibles. Por otro lado, 
+GridLayout organiza los componentes en una cuadrícula de filas y columnas, 
+proporcionando una distribución simétrica y consistente, útil en interfaces que 
+requieren disposición uniforme, como formularios o paneles de control. Cada uno 
+de estos layouts tiene sus particularidades y limita o flexibiliza la disposición 
+según el diseño requerido. La elección de un layout afecta el tiempo de desarrollo 
+y el aspecto final de la interfaz, y muchas veces se combinan varios en aplicaciones 
+complejas para obtener una estructura visual eficaz.
+
+//IAG (ChaGPT 4o)
+//Texto original sin revisión

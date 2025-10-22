@@ -1,0 +1,17 @@
+Edición de celdas de una JTable
+
+En Java Swing, JTable ofrece la funcionalidad de edición de celdas, permitiendo 
+que los usuarios interactúen directamente con los datos de la tabla. Por defecto, 
+una celda es editable si el modelo de datos permite la edición, lo cual se configura 
+mediante el TableModel. Al hacer clic en una celda editable, el usuario puede 
+modificar su contenido, y el JTable actualiza automáticamente el modelo con el 
+nuevo valor. La edición de celdas se puede personalizar aún más mediante 
+CellEditors, que permiten definir qué tipo de editor (por ejemplo, un campo de 
+texto, un cuadro de selección) debe utilizarse en cada celda. Además, es posible 
+controlar cuándo se inicia y finaliza la edición de una celda mediante escuchadores 
+de eventos, lo que permite validar los datos introducidos antes de guardarlos. Esta 
+flexibilidad en la edición de celdas hace que JTable sea una herramienta completa 
+para la manipulación de datos directamente en la interfaz gráfica de usuario.
+
+//IAG (ChaGPT 4o)
+//Texto original sin revisión

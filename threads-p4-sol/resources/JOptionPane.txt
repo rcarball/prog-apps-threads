@@ -1,0 +1,17 @@
+Cuadros de diálogo estándar con JOptionPane
+
+JOptionPane es una clase de Java Swing que permite mostrar cuadros de diálogo estándar 
+de manera sencilla, facilitando la interacción con el usuario mediante mensajes, 
+opciones y cuadros de entrada. JOptionPane proporciona métodos estáticos como 
+showMessageDialog(), showConfirmDialog() y showInputDialog(), que crean diferentes 
+tipos de diálogos para notificar, confirmar o solicitar información al usuario. Estos 
+cuadros de diálogo son personalizables y permiten establecer mensajes, iconos, títulos 
+y botones. Además, el uso de JOptionPane simplifica la captura de respuestas del usuario, 
+ya que devuelve el resultado de la interacción directamente, permitiendo manejar el 
+flujo de la aplicación según la entrada recibida. Al implementar JOptionPane, se puede 
+mejorar la accesibilidad y navegabilidad de la interfaz, proporcionando al usuario 
+respuestas inmediatas y claras. Su facilidad de uso y versatilidad hacen de JOptionPane 
+una herramienta esencial para gestionar interacciones rápidas en aplicaciones Java Swing.
+
+//IAG (ChaGPT 4o)
+//Texto original sin revisión

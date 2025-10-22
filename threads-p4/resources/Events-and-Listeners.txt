@@ -1,0 +1,16 @@
+Funcionamiento y gestión de eventos y escuchadores
+
+Los eventos y escuchadores en Java Swing permiten manejar la interacción del usuario 
+con los componentes gráficos. Un evento es una acción que ocurre en la interfaz, como 
+hacer clic en un botón o mover el ratón, mientras que un escuchador es un objeto que 
+“escucha” estos eventos y responde de acuerdo con la lógica programada. Para gestionar 
+eventos, se registran escuchadores específicos en los componentes que generarán acciones. 
+Por ejemplo, un botón puede tener un ActionListener que se activa cuando el usuario 
+hace clic. Este modelo de gestión de eventos y escuchadores permite desacoplar la 
+lógica de interacción del código visual, facilitando la creación de interfaces 
+interactivas y escalables en aplicaciones Java Swing. Al implementar este modelo, 
+los desarrolladores logran una respuesta inmediata a las acciones del usuario, mejorando 
+la experiencia y funcionalidad de la interfaz.
+
+//IAG (ChaGPT 4o)
+//Texto original sin revisión

@@ -1,0 +1,18 @@
+Renderizado de JTable
+
+JTable es un componente de Java Swing que permite mostrar y gestionar datos en 
+formato de tabla. Este componente es altamente personalizable y facilita el 
+renderizado de datos estructurados en filas y columnas. Para crear una JTable, 
+se puede utilizar un TableModel que defina la estructura de los datos y cómo deben 
+mostrarse en cada celda. JTable permite un control detallado del aspecto visual, 
+gracias a métodos como setRowHeight(), setColumnWidth() y la posibilidad de aplicar 
+renderers personalizados. El renderizado en JTable se refiere a la personalización 
+de cómo se muestran los datos en cada celda, permitiendo, por ejemplo, cambiar el 
+color, fuente o incluso añadir componentes gráficos dentro de las celdas. Este nivel 
+de flexibilidad convierte a JTable en una herramienta poderosa para aplicaciones que 
+requieren visualización de datos detallada y una interacción fluida con el usuario. 
+La capacidad de actualizar y gestionar datos dinámicamente hace que el JTable sea 
+fundamental en muchas aplicaciones de Swing.
+
+//IAG (ChaGPT 4o)
+//Texto original sin revisión

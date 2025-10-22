@@ -1,0 +1,18 @@
+Creación, configuración y uso de un JDialog
+
+Un JDialog en Java Swing es una ventana de diálogo utilizada para mostrar información 
+adicional, solicitar entradas o confirmar acciones. A diferencia de un JFrame, un 
+JDialog suele estar asociado a un JFrame principal y puede configurarse como modal,
+es decir, que bloquea la interacción con el resto de la aplicación hasta que se
+cierre. Crear un JDialog implica instanciarlo con el JFrame padre y establecer 
+sus propiedades, como título, tamaño y layout. Al ser una ventana secundaria, un 
+JDialog es útil para mostrar mensajes de advertencia, cuadros de confirmación o 
+formularios simples. Con métodos como setVisible(true), setModal(true) y dispose(), 
+el JDialog puede mostrarse y ocultarse fácilmente según las necesidades de la interfaz. 
+Además, se pueden añadir componentes y escuchadores dentro del JDialog para que 
+responda a acciones específicas, proporcionando así un control detallado sobre la 
+interacción. Esta flexibilidad convierte al JDialog en una herramienta ideal para 
+manejar información que no requiere una ventana principal completa.
+
+//IAG (ChaGPT 4o)
+//Texto original sin revisión

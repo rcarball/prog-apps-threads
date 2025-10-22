@@ -1,0 +1,16 @@
+Eventos y escuchadores de ratón
+
+Los eventos y escuchadores de ratón en Java Swing permiten manejar las acciones 
+específicas que realiza el usuario con el ratón, como hacer clic, arrastrar o mover 
+sobre un componente. Para capturar estas interacciones, se utiliza el MouseListener 
+y el MouseMotionListener, que ofrecen métodos como mouseClicked(), mousePressed(), 
+mouseReleased(), mouseEntered(), y mouseExited() para responder a diversas acciones. 
+Esto es útil en interfaces que requieren detección de posición o que ofrecen 
+retroalimentación visual basada en el movimiento del ratón. Además, estos eventos de 
+ratón se pueden combinar con otros escuchadores, creando una interfaz rica en 
+interactividad. Al implementar escuchadores de ratón, los desarrolladores pueden 
+definir comportamientos detallados en respuesta a las acciones del usuario, 
+mejorando la usabilidad y dinamismo de la interfaz.
+
+//IAG (ChaGPT 4o)
+//Texto original sin revisión

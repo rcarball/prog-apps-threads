@@ -1,0 +1,17 @@
+Proceso básico de un hilo en Java: creación, activación, detención, pausa y sleep
+
+El uso de hilos en Java permite ejecutar múltiples tareas de forma concurrente, 
+optimizando el rendimiento de las aplicaciones. Para crear un hilo en Java, 
+se puede implementar la interfaz Runnable o extender la clase Thread, definiendo 
+el código que el hilo ejecutará en el método run(). Una vez creado, el hilo se activa 
+mediante el método start(), iniciando su ejecución en paralelo con otros procesos. 
+Durante la ejecución, el hilo puede pausarse con sleep(), lo que lo detiene 
+temporalmente por un periodo específico, permitiendo una gestión precisa del tiempo. 
+Para detener un hilo, se utiliza una lógica de control en el método run() que evalúa 
+una condición, dado que el método stop() está obsoleto. Finalmente, join() permite 
+sincronizar hilos, haciendo que un hilo espere a que otro termine antes de continuar. 
+Este control sobre el ciclo de vida del hilo permite gestionar el flujo de ejecución 
+y optimizar recursos en aplicaciones de alto rendimiento.
+
+//IAG (ChaGPT 4o)
+//Texto original sin revisión
